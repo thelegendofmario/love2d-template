@@ -1,2 +1,5 @@
 # love2d-template
-just a simple template for love2d projects
+This is a template for love2d projects.
+
+# liscense
+this uses the GPLv3 liscense.
