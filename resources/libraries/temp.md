@@ -1,3 +1,4 @@
+```
 main/
  ├── main.lua
  └── resources/
@@ -9,3 +10,4 @@ main/
           └── put art here
 
 this literally just shows the directory structure. it is safe to delete this file.
+```
